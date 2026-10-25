@@ -1,6 +1,6 @@
 # Producer–Consumer Problem — Email System (OS Assignment 2)
 
-**Name:** ________  **Roll No:** ________  **Class:** 5th Sem, Section B
+**Name:** Rohini Shende  **UID:** 24003173 **Class:** 5th Sem, Section B
 
 ## Problem Statement
 Producers (users) compose emails and place them in a bounded Outbox (buffer of size 5).
